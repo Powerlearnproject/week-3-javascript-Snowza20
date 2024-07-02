@@ -70,8 +70,8 @@ const chartData = {
     datasets: [{
         label: "Laptops shipment over 5 months",
         data: [100, 200, 300, 400, 500],
-        backgroundColor: "black(255, 99, 132, 0.2)",
-        borderColor: "black(255, 99, 132, 1)",
+        backgroundColor: "rgba(255, 99, 132, 0.2)",
+        borderColor: "rgba(255, 99, 132, 1)",
         borderWidth: 1
     }]
 };
