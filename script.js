@@ -1,5 +1,5 @@
 
-let name = "Peter Jones";
+let name = "Sarah Williams";
 let age = 30;
 let isAdmin = true;
 
